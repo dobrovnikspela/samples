@@ -1,1 +1,1 @@
-console.log("Paše spet tipkat :)");
+console.log("Paše spet tipkat ...:)");
